@@ -1,0 +1,31 @@
+{
+  "name": "etherscan-solidity-fetcher",
+  "version": "1.0.3",
+  "description": "A utility to fetch Solidity contracts from Etherscan.",
+  "main": "script.js",
+  "devDependencies": {},
+  "bin": "./script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheraz-arshad/etherscan-solidity-fetcher.git#main"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "mkdirp": "^3.0.1"
+  },
+  "keywords": [
+    "etherscan",
+    "solidity",
+    "smart",
+    "contract"
+  ],
+  "author": "Sheraz Arshad",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sheraz-arshad/etherscan-solidity-fetcher/issues"
+  },
+  "homepage": "https://github.com/sheraz-arshad/etherscan-solidity-fetcher/tree/main#readme"
+}
