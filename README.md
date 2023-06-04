@@ -12,4 +12,5 @@ Accepted chain arguments:
 - polygon
 ```
 
-![demo](https://github.com/sheraz-arshad/etherscan-solidity-fetcher/assets/51763758/1ce60f6b-ca4f-4387-b0d5-4906c9002391)
+![demo](https://github.com/sheraz-arshad/etherscan-solidity-fetcher/assets/51763758/ae73293b-d43f-4570-894a-b7495bbe1818)
+
